@@ -1,0 +1,4 @@
+Customer Alice has purchased your book with id 15 - hej.
+Price: 100.0
+Customer address: Maple Street 12
+You have 2 working days to send the book to the buyer.

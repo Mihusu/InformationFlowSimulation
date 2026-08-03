@@ -1,0 +1,4 @@
+Thanks for purchasing the book with id 15 - hej.
+Price: 100.0
+Customer address: Maple Street 12
+The book will be sent to you within 5 working days.
